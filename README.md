@@ -9,3 +9,5 @@ Here, this code extracts the main account address for me. It is then able to use
 We do not see any form of confirmation for any gas payment when this code runs.
 
 My lecturer says any transaction done has to pay gas, even view balance.... sigh....
+
+Updated- combined codes now can be found here https://github.com/Glennpedley/Homework_link
